@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 6/9/2015 4:17:39 PM
+
+BeginCmp
+TimeStamp = /556CE6F6;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6DD;
+Reference = C2;
+ValeurCmp = 2u2;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6E1;
+Reference = C3;
+ValeurCmp = 4u7;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6E0;
+Reference = C4;
+ValeurCmp = 10u;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6F8;
+Reference = M1;
+ValeurCmp = ESP-12E;
+IdModule  = ESP12E:ESP-12E;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CEEA3;
+Reference = P1;
+ValeurCmp = CONN_01X07;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE9FA;
+Reference = P2;
+ValeurCmp = CONN_01X13;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x13;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CEB45;
+Reference = P3;
+ValeurCmp = CONN_01X13;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x13;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576BDB1;
+Reference = P4;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576BFB1;
+Reference = P5;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576C098;
+Reference = P6;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576C13E;
+Reference = P7;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6DB;
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = ESP12E:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6DA;
+Reference = Q2;
+ValeurCmp = BSS138;
+IdModule  = ESP12E:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6DC;
+Reference = R1;
+ValeurCmp = 470K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6DE;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6EE;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6F0;
+Reference = R4;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6D9;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = ESP12E:SW_PUSH_SMALL_2pin_xl;
+EndCmp
+
+BeginCmp
+TimeStamp = /556CE6DF;
+Reference = U1;
+ValeurCmp = 1117-3.3;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+EndListe
