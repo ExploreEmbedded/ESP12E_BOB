@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 6/17/2015 3:53:44 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 7/13/2015 10:13:25 AM
 
 BeginCmp
 TimeStamp = /556CE6F6;
@@ -33,6 +33,13 @@ TimeStamp = /556CE6F8;
 Reference = M1;
 ValeurCmp = ESP-12E;
 IdModule  = ESP12E:ESP-12E;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A347C2;
+Reference = P1;
+ValeurCmp = CONN_01X07;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x07;
 EndCmp
 
 BeginCmp
@@ -75,13 +82,6 @@ TimeStamp = /5576C13E;
 Reference = P7;
 ValeurCmp = CONN_01X01;
 IdModule  = Connect:1pin;
-EndCmp
-
-BeginCmp
-TimeStamp = /55813FF5;
-Reference = P8;
-ValeurCmp = CONN_01X07;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x07;
 EndCmp
 
 BeginCmp

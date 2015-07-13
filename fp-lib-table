@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name ESP12E)(type KiCad)(uri "D:\\Github\\ESP12E BOB\\esp.pretty")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "H:\\PCB_Designes\\LPC1768 Stick1\\lib_new\\logo.pretty")(options "")(descr ""))
 )
